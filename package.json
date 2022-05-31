@@ -19,5 +19,10 @@
   "homepage": "https://github.com/RvN-R/vending-machine#readme",
   "devDependencies": {
     "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "istanbul": "^0.4.5",
+    "qunit-tap": "^1.5.1",
+    "qunitjs": "^2.4.1"
   }
 }
