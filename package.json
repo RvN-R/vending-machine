@@ -1,0 +1,23 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "I created this project to practice my TDD using Tape.",
+  "main": "change.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RvN-R/vending-machine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RvN-R/vending-machine/issues"
+  },
+  "homepage": "https://github.com/RvN-R/vending-machine#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
